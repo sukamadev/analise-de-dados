@@ -1,6 +1,9 @@
 # analise-de-dados
 Bootcamp analise de dados Soulcode
 
+O arquivo [ClaudStorage.ipynb](https://github.com/sukamadev/analise-de-dados/blob/main/CloudStorage.ipynb) é referente a aula
+
+
 Crie listas com 5 valores cada, com os respectivos nomes:
 - matricula
 - nome
